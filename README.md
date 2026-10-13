@@ -6,6 +6,8 @@ forget — that every **BREAKING** change is paired with an Upgrade/Migration
 section. Drop it into CI next to your changelog. If your release notes are
 already machine-generated from a strict template, you may not need it.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Release notes rot silently. Someone adds a `### Wibbles` section, another
